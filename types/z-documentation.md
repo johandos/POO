@@ -40,3 +40,18 @@
 
 ************
 	
+#
+
+* typeCasting: 
+    _conversión de tipos es utilizar el valor de una variable con un tipo de 
+    datos diferente. En otras palabras, la conversión de tipos es una forma de
+     utilizar una variable de tipo de datos en el tipo de datos diferente._
+     
+* TypeJuggling:
+    _PHP no requiere (ni soporta) la definición explicita de tipos en la 
+    declaración de variables; el tipo de la variable se determina por el 
+    contexto en el cual se emplea la variable. Es decir, si se asigna un valor 
+    string a una variable $var, entonces $var se convierte en un string. Si un 
+    valor integer es entonces asignado a la misma variable $var, ésta se 
+    convierte en integer._
+    
